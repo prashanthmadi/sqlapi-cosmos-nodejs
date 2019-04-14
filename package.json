@@ -1,0 +1,17 @@
+{
+  "name": "cosmos_sqlapi_sample",
+  "version": "1.0.0",
+  "description": "Cosmos SQLApi Sample",
+  "main": "app.js",
+  "dependencies": {
+    "@azure/cosmos": "^2.1.5",
+    "csvtojson": "^2.0.8",
+    "lodash": "^4.17.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
